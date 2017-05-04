@@ -3,6 +3,9 @@ This is an example Mock API for rapid front-end development. I walk through how 
 
 ## Idea
 - git@github.com:raidenz/mock-api-example.git
+- https://github.com/json-schema-faker/json-schema-faker
+- https://github.com/typicode/json-server
+
 ## Quick Start
 ```
 npm install
